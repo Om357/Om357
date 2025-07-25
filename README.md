@@ -27,7 +27,7 @@ I'm a Java backend developer with hands-on experience in building scalable, secu
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Om357&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://streak-stats.demolab.com?user=Om357&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om357&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om357&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" /> -->
 </div>
 
 ---
