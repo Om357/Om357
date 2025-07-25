@@ -9,7 +9,7 @@ I'm a Java backend developer with hands-on experience in building scalable, secu
 ### 🚀 Skills & Technologies
 
 **Backend:**  
-`Java` • `Spring Boot` • `Spring Data JPA` • `Spring Security` • `Hibernate` • `REST APIs`  
+`Java` • `Spring Boot` • `Spring Data JPA` • `Spring Security` • `Hibernate` • `REST APIs` • `Docker`   
 
 **Databases:**  
 `PostgreSQL` • `MongoDB`  
