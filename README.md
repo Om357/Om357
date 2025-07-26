@@ -39,7 +39,7 @@ I'm a Java backend developer with hands-on experience in building scalable, secu
   <a href="https://www.linkedin.com/in/omrathod357" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-om.rathod2004.or@gmail.com" target="_blank">
+  <a href="mailto:om.rathod2004.or@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
